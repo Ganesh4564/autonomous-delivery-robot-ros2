@@ -22,13 +22,24 @@ The project demonstrates the complete robotics pipeline:
 
 The following recording demonstrates the autonomous delivery robot operating inside the custom Gazebo office environment.
 
-[▶ Watch Gazebo Robot Simulation](media/gazebo_office_demo.mp4)
+## 🎥 Project Demo
 
-## SLAM Mapping and RViz
+### Gazebo Office Simulation
 
-The following recording demonstrates LiDAR-based mapping and visualization using SLAM Toolbox and RViz2.
 
-[▶ Watch SLAM Mapping Demo](media/slam_nav2_demo.mp4)
+https://github.com/user-attachments/assets/7f3a401f-4a8c-45e4-89a5-a3ce4b04752c
+
+
+
+
+
+### SLAM Mapping in RViz
+
+
+
+https://github.com/user-attachments/assets/e7537f8c-c222-46c4-a1f4-5abe1bacd0db
+
+
 
 ---
 
